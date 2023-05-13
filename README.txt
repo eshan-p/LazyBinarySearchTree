@@ -2,23 +2,20 @@ Name:	   Eshan Patel
 NetID:	   exp200016
 Section #: 003
 
-
 Project 2: Binary Search Tree with Lazy Deletion
-
 
 Files to be used:
 * MainLazyBST.java
 * LazyBinarySearchTree.java
 
-
 IDE used to create project: IntelliJ IDEA Ultimate (Version 2023.1)
-Java version/SDK:	    13 Azul Zulu (Version 13.0.14)
+Java version/SDK:	          13 Azul Zulu (Version 13.0.14)
 
+The task of this project is to implement in Java a binary search tree with lazy deletion.
 
 My project was able to function as intended by the structure and behavior listed in the prompt. In my main class (MainLazyBST.java), I was also able to run the program using two command line arguments by editing the run configurations in my IDE and entering two strings into the ‘CLI arguments’ text field: the absolute path for the input file followed by the absolute path for the output file (both with surrounding double quotes).
 
-
-My sample commands included the commands listed in the prompt:
+Sample commands used to run MainLazyBST.java:
 Insert:98 
 Insert:67 
 Insert:55 
@@ -40,8 +37,7 @@ Insert:980
 Insert 
 hih
 
-
-My corresponding output with the sample commands:
+Corresponding file output following input of sample commands:
 true
 true
 true
