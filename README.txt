@@ -1,6 +1,5 @@
 Name:	   Eshan Patel
-NetID:	   exp200016
-Section #: 003
+Class:   CS 3345
 
 Project 2: Binary Search Tree with Lazy Deletion
 
