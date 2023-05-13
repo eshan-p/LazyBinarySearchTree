@@ -1,5 +1,5 @@
 Name:	   Eshan Patel
-Class:      CS 3345
+Class:     CS 3345
 
 Project 2: Binary Search Tree with Lazy Deletion
 
